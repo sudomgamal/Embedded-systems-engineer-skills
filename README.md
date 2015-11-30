@@ -10,11 +10,11 @@ This repository contains a collection of [skills](https://github.com/eng-mg/Embe
 
 ## How to contribute? ##
 
-If you are not familiar with markdown have a look [here](https://guides.github.com/features/mastering-markdown/) first. 
+If you are not familiar with markdown, have a look [here](https://guides.github.com/features/mastering-markdown/) first. 
 
-If you know how to write markdown files then contributing to the [Skills.md](https://github.com/eng-mg/Embedded-systems-engineer-skills/blob/master/Skills.md) file is pretty straight forward.
+If you know how to write markdown files then contributing to the [Skills.md](https://github.com/eng-mg/Embedded-systems-engineer-skills/blob/master/Skills.md) file is pretty straightforward.
 
-### You only need to ##
+### You only need to ###
 1. [Join](https://github.com/join) GitHub.
 2. Open [Skills.md](https://github.com/eng-mg/Embedded-systems-engineer-skills/blob/master/Skills.md) in your browser.
 3. Follow these [instructions](https://help.github.com/articles/editing-files-in-another-user-s-repository/) starting from instruction 2.
