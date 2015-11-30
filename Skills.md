@@ -1,5 +1,17 @@
 # Skills  required  in various companies for embedded systems engineer/developer work position #
 
+## Mentor Graphics Egypt ##
+Mentor Graphics® is a leader in electronic design automation software.  
+[Job link](https://www.linkedin.com/jobs2/view/87861848?refId=8ceccc6c-848c-49b1-85eb-b3f0f6ddd50f&trk=jobs_home_click_jymbii)
+- B.Sc. in Computer/Electronic Engineering with grade Very Good or higher.
+- Strong programming knowledge of Embedded C/C++.
+- Knowledge in software design process and development life cycle.
+- Knowledge of Automotive and/or AUTOSAR.
+- Strong written/communication skills with a quantitative analysis oriented mindset. 
+- Self-Motivated and Team Player.
+- Willing to work in a challenging environment.
+- Ability to travel for short and long term assignments
+
 ## Bitel Middle East ##
 BITEL is the leading manufacturer of EFT payment solutions from South Korea since 1992.  
 [Job link](https://www.linkedin.com/pulse/bitel-middle-east-hiring-mahmoud-swedan)
