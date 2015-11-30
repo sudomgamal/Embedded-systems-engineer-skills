@@ -2,7 +2,7 @@
 
 ## Bitel Middle East ##
 BITEL is the leading manufacturer of EFT payment solutions from South Korea since 1992.  
-[Link](https://www.linkedin.com/pulse/bitel-middle-east-hiring-mahmoud-swedan)
+[Job link](https://www.linkedin.com/pulse/bitel-middle-east-hiring-mahmoud-swedan)
 
 - Proven working experience in software engineering.
 - BS degree in Computer Science or Engineering.
@@ -16,7 +16,7 @@ BITEL is the leading manufacturer of EFT payment solutions from South Korea sinc
 - Strong documentation and writing skills.
 
 ## ATMEL Egypt  ##
-[Link](https://www.linkedin.com/pulse/atmel-egypt-hiring-adham-abozaeid-6075037448524615680)
+[Job link](https://www.linkedin.com/pulse/atmel-egypt-hiring-adham-abozaeid-6075037448524615680)
 
 - B.Sc. of Electronics and Communications Engineering, Computer and Systems Engineering or Computer Science from a reputable university.
 - Solid understanding of ANSI C programming language.
@@ -27,7 +27,7 @@ BITEL is the leading manufacturer of EFT payment solutions from South Korea sinc
 
 ## Si-Ware Systems ##
 Si-Ware Systems is a fabless semiconductor company that is fostering silicon innovation.  
-[Link](http://www.si-ware.com/careers/)
+[Job link](http://www.si-ware.com/careers/)
 
 - A computer science or computer engineering university degree, or equivalent with 7 to 10 years of experience in similar applications.
 - Good experience with embedded systems is a must.
@@ -37,7 +37,7 @@ Proficiency in one or more of C, C++ or Java languages is a must. Developing mob
 - Must exhibit excellent written and verbal communication and presentation skills and English proficiency.
 
 ## Valeo ##
-[Link](http://vias-egypt-careers.com/ViewJobs.aspx)
+[Job link](http://vias-egypt-careers.com/ViewJobs.aspx)
 
 - B.Sc. in Communication, Electronics or Computer Engineering.
 - From 0 to 5 years of relevant experience.
