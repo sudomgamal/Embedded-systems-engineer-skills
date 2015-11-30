@@ -35,3 +35,14 @@ Proficiency in one or more of C, C++ or Java languages is a must. Developing mob
 - Good working knowledge with Matlab and Simulink is a plus.
 - Must exhibit excellent interpersonal skills and ability to manage teams and coordinate with others groups in a team environment.
 - Must exhibit excellent written and verbal communication and presentation skills and English proficiency.
+
+## Valeo ##
+[Link](http://vias-egypt-careers.com/ViewJobs.aspx)
+
+- B.Sc. in Communication, Electronics or Computer Engineering.
+- From 0 to 5 years of relevant experience.
+- Knowledge of software validation and C-Programming.
+- Knowledge of embedded C-Programming, Microcontroller architecture, real time design.
+- Experience in Test bench using emulators/simulators is a plus.
+- Experience in Object-oriented programming, C/C++, MFC, Win32 APIs, XML Technology, Matlab Scripting is a plus.
+- Excellent command of written and spoken English.
