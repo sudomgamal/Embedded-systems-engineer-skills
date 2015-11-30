@@ -1,6 +1,6 @@
 # Skills  required  in various companies for embedded systems engineer/developer work position #
 
-## Bitel Middle East: ##
+## Bitel Middle East ##
 BITEL is the leading manufacturer of EFT payment solutions from South Korea since 1992.  
 [Link](https://www.linkedin.com/pulse/bitel-middle-east-hiring-mahmoud-swedan)
 
@@ -15,7 +15,7 @@ BITEL is the leading manufacturer of EFT payment solutions from South Korea sinc
 - Adequate knowledge of reading data sheets for components.
 - Strong documentation and writing skills.
 
-## ATMEL Egypt:  ##
+## ATMEL Egypt  ##
 [Link](https://www.linkedin.com/pulse/atmel-egypt-hiring-adham-abozaeid-6075037448524615680)
 
 - B.Sc. of Electronics and Communications Engineering, Computer and Systems Engineering or Computer Science from a reputable university.
