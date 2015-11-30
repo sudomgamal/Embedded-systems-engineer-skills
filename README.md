@@ -2,7 +2,7 @@ This repository contains a collection of [skills](https://github.com/eng-mg/Embe
 
 ### This repository aims to: ###
 
-- Allow embedded systems engineers to keep track of the skills they should have to join embedded systems engineering field so they can update their skills accordingly.
+- Allow embedded systems engineers (**specially fresh graduates**) to keep track of the skills they should have to join embedded systems engineering field so they can update their skills accordingly.
 - Provide a collection of embedded systems engineering jobs available in Egypt.
 
 The main file in this repository is the [Skills.md](https://github.com/eng-mg/Embedded-systems-engineer-skills/blob/master/Skills.md) file which contains all the data.
