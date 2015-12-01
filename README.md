@@ -21,4 +21,4 @@ If you know how to write markdown files then contributing to the [Skills.md](htt
 
 Please keep the file format consistent by following this order: *Company name* in a heading then *company description* if required then the *job link* if available then a *bullet list of required skills*.
 
-Recommended commit message for adding new companies is `Add [company's name]`.
+Recommended commit message for adding new companies is `Add 'company's name'`.
