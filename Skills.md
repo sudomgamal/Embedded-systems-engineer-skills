@@ -1,5 +1,16 @@
 # Skills  required  in various companies for embedded systems engineer/developer work position #
 
+##Avelabs
+[Job link](http://www.avelabs.com/careers/)
+- 1+ years of experience in the automotive embedded systems
+- University degree in computers or electronics engineering
+- Excellent embedded C programming skills
+- Good knowledge of micro controllers and hardware peripherals used in the automotive industry
+- Knowledge of communication protocols widely used in the automotive industry e.g. CAN, LIN, FlexRay, ...
+- AUTOSAR experience is highly appreciated
+- Excellent command of English language (Written and Spoken)
+- German language is a plus
+
 ##Idaco Egypt
 [Job link](http://www.idaco-egypt.com/jobDoc_dir/1Research%20and%20Development%20Engineers%20JOb%20des.docx)
 - B.Sc. Degree of Electronics Engineering (with minimum VGood)
