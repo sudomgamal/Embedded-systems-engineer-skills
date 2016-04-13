@@ -1,8 +1,21 @@
 # Skills  required  in various companies for embedded systems engineer/developer work position #
 
+##Idaco Egypt
+[Job link](http://www.idaco-egypt.com/jobDoc_dir/1Research%20and%20Development%20Engineers%20JOb%20des.docx)
+- B.Sc. Degree of Electronics Engineering (with minimum VGood)
+- Excellent in C/C++
+- Experience with Microcontrollers
+- Highly capable of self-learning
+- Able to meet deadlines
+
+
 ##EJAD
 [Job link](http://ejad.itargetdev.net/careers#collapse1)
-- B.Sc. in Communication, Electronics or Computer Engineering.
+- B.Sc. in Communicati embedded C programming is a MUST.
+- Good knowledge of micro-controllers and peripherals is a MUST.
+- Familiarity with AUTOSAR Software Architecture is a plus.
+- Experience in RTOS/Automotive buses is a plus.
+- Knowledge in software design on, Electronics or Computer Engineering.
 - 0 - 3 years of experience in embedded software development.
 - Good knowledge of embedded C programming is a MUST.
 - Good knowledge of micro-controllers and peripherals is a MUST.
