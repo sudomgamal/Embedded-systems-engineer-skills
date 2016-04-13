@@ -1,5 +1,18 @@
 # Skills  required  in various companies for embedded systems engineer/developer work position #
 
+##Elsewedy Electrometers
+[Job link](http://www.elsewedyemg.com/index.php/en/careers/116-embedded-software-engineer)
+- Bachelor’s degree in an engineering discipline such as computer -engineering or electrical engineering or in computer science
+- 1 to 2 years work in related field experience is preferred
+- Professional  of C and C++Software programming language
+- A mix of hardware and software knowledge is helpful
+- Ability to interpret written requirements and technical specification documents.
+- Ability to code software according to published standards and design guidelines.
+- Have a very good experience of using Modeling language, UML, through all embedded software life cycle.
+- Knowledge of development under Linux platform is preferred
+- Ability to work well within a team
+- Flexible attitude, ability to perform under pressure
+
 ##Axxcelera Egypt
 [Job link](http://www.axxceleraegypt.com/wp-content/job-descriptions/Embedded-Software-Engineers-Stack.pdf)
 - B.Sc. in Computer/Electrical Engineering
