@@ -22,11 +22,7 @@
 
 ##EJAD
 [Job link](http://ejad.itargetdev.net/careers#collapse1)
-- B.Sc. in Communicati embedded C programming is a MUST.
-- Good knowledge of micro-controllers and peripherals is a MUST.
-- Familiarity with AUTOSAR Software Architecture is a plus.
-- Experience in RTOS/Automotive buses is a plus.
-- Knowledge in software design on, Electronics or Computer Engineering.
+- B.Sc. in Communication, Electronics or Computer Engineering.
 - 0 - 3 years of experience in embedded software development.
 - Good knowledge of embedded C programming is a MUST.
 - Good knowledge of micro-controllers and peripherals is a MUST.
@@ -34,7 +30,7 @@
 - Experience in RTOS/Automotive buses is a plus.
 - Knowledge in software design process and development life cycle is a plus.
 - Willing to travel for short/long term.
-- Good command of English language
+- Good command of English language.
 
 ##Elsewedy Electrometers
 [Job link](http://www.elsewedyemg.com/index.php/en/careers/116-embedded-software-engineer)
