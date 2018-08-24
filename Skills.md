@@ -1,6 +1,6 @@
 # Skills  required  in various companies for embedded systems engineer/developer work position #
 
-##Avelabs
+## Avelabs
 [Job link](http://www.avelabs.com/careers/)
 - 1+ years of experience in the automotive embedded systems
 - University degree in computers or electronics engineering
@@ -11,7 +11,7 @@
 - Excellent command of English language (Written and Spoken)
 - German language is a plus
 
-##Idaco Egypt
+## Idaco Egypt
 [Job link](http://www.idaco-egypt.com/jobDoc_dir/1Research%20and%20Development%20Engineers%20JOb%20des.docx)
 - B.Sc. Degree of Electronics Engineering (with minimum VGood)
 - Excellent in C/C++
@@ -20,7 +20,7 @@
 - Able to meet deadlines
 
 
-##EJAD
+## EJAD
 [Job link](http://ejad.itargetdev.net/careers#collapse1)
 - B.Sc. in Communication, Electronics or Computer Engineering.
 - 0 - 3 years of experience in embedded software development.
@@ -32,7 +32,7 @@
 - Willing to travel for short/long term.
 - Good command of English language.
 
-##Elsewedy Electrometers
+## Elsewedy Electrometers
 [Job link](http://www.elsewedyemg.com/index.php/en/careers/116-embedded-software-engineer)
 - Bachelor’s degree in an engineering discipline such as computer -engineering or electrical engineering or in computer science
 - 1 to 2 years work in related field experience is preferred
@@ -45,7 +45,7 @@
 - Ability to work well within a team
 - Flexible attitude, ability to perform under pressure
 
-##Axxcelera Egypt
+## Axxcelera Egypt
 [Job link](http://www.axxceleraegypt.com/wp-content/job-descriptions/Embedded-Software-Engineers-Stack.pdf)
 - B.Sc. in Computer/Electrical Engineering
 - MUST be proficient in ‘C' programming language and understand good coding
@@ -88,7 +88,7 @@ BITEL is the leading manufacturer of EFT payment solutions from South Korea sinc
 - Adequate knowledge of reading data sheets for components.
 - Strong documentation and writing skills.
 
-##ATMEL Egypt
+## ATMEL Egypt
 [Job link](https://www.linkedin.com/pulse/atmel-egypt-hiring-adham-abozaeid-6075037448524615680)
 
 - B.Sc. of Electronics and Communications Engineering, Computer and Systems Engineering or Computer Science from a reputable university.
@@ -98,7 +98,7 @@ BITEL is the leading manufacturer of EFT payment solutions from South Korea sinc
 - Good knowledge of microcontrollers and HW interfacing.
 - Good understanding of SW verification techniques such as system level testing, integration testing and unit testing.
 
-##Si-Ware Systems
+## Si-Ware Systems
 Si-Ware Systems is a fabless semiconductor company that is fostering silicon innovation.  
 [Job link](http://www.si-ware.com/careers/)
 
@@ -109,7 +109,7 @@ Proficiency in one or more of C, C++ or Java languages is a must. Developing mob
 - Must exhibit excellent interpersonal skills and ability to manage teams and coordinate with others groups in a team environment.
 - Must exhibit excellent written and verbal communication and presentation skills and English proficiency.
 
-##Valeo
+## Valeo
 [Job link](http://vias-egypt-careers.com/ViewJobs.aspx)
 
 - B.Sc. in Communication, Electronics or Computer Engineering.
